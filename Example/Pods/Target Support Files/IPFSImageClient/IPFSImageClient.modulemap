@@ -1,0 +1,6 @@
+framework module IPFSImageClient {
+  umbrella header "IPFSImageClient-umbrella.h"
+
+  export *
+  module * { export * }
+}
