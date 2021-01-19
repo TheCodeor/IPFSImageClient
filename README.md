@@ -17,7 +17,7 @@ IPFSImageClient is available through [CocoaPods](https://cocoapods.org). To inst
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'IPFSImageClient'
+pod 'IPFSImageClient':git => 'https://github.com/TheCodeor/IPFSImageClient.git'
 ```
 
 ## Author

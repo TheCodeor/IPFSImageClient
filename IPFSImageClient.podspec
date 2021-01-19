@@ -25,9 +25,9 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '447690182@qq.com' => '447690182@qq.com' }
-  s.source           = { :git => 'https://github.com/447690182@qq.com/IPFSImageClient.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/TheCodeor/IPFSImageClient.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
-
+ 
   s.ios.deployment_target = '9.0'
 
   s.source_files = 'IPFSImageClient/Classes/**/*'
